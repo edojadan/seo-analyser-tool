@@ -1,5 +1,3 @@
-# seo-analyser tool
- 
 # SEO Analyser Tool
 
 ## Overview
