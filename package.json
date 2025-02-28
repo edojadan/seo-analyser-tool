@@ -1,0 +1,19 @@
+{
+    "name": "seo-analyser-tool",
+    "version": "1.0.0",
+    "description": "A small scale SEO analyser tool using Node.js, Puppeteer, and Java integration",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "node src/server.js",
+        "test": "jest"
+    },
+    "dependencies": {
+        "axios": "^1.8.1",
+        "cheerio": "^1.0.0",
+        "express": "^4.21.2",
+        "puppeteer": "^19.11.1"
+    },
+    "devDependencies": {
+        "jest": "^29.0.0"
+    }
+}
